@@ -14,3 +14,4 @@ function whileLoop(n) {
     console.log(--n)
   }
 }
+//note
